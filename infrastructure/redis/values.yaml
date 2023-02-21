@@ -9,3 +9,6 @@ master:
 
 volumePermissions:
   enabled: true
+
+replica:
+  replicaCount: 5
